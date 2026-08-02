@@ -1,2 +1,2 @@
 # some-html-project
-my projects on html cv are here
+https://roadmap.sh/projects/single-page-cv
